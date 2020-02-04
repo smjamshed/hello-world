@@ -1,5 +1,5 @@
 # hello-world
-A repository of ideas
+A repository of ideas.
 My name is Sina and I love to cook.
 Now my kids enjoy cooking and baking so we have too many competing chefs at home.
 I like creative writing.
